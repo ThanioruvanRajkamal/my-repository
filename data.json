@@ -1,0 +1,37 @@
+{
+  "basics":{
+    "name":"Kamalakannan",
+    "email":"rajkamal.ngr@gmail.com",
+    "photo":"thEK24R5US.jpg",
+    "phone":"8106128284",
+    "address":"chittoor, AP"
+  },
+  "career":{
+    "info":"To pursue a challenging career and be a part of progressive organization that gives a scope to enhance my knowledge and utilizing my skills towards the growth of the organization"
+
+  },
+  "education":[
+    {
+      "cource":"MCA",
+      "college":"SVPCET,puttur",
+      "data":["2016-19","85.6%"]
+
+    },
+    {
+    "cource":"B.Sc(computers)",
+    "college":"SSDC,Nagari",
+    "data":["2013-16","75.6%"]
+  },
+  {
+    "cource":"MPC",
+    "college":"SSJC,Nagari",
+    "data":["2010-12","65.6%"]
+  },
+  {
+    "cource":"S.S.C",
+    "college":"ZP Hs,Ekm",
+    "data":["2005-10","55.6%"]
+  }
+]
+
+}
